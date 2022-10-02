@@ -51,7 +51,7 @@ class HangGhe extends Component {
     }
 
     render() {
-        console.log(this.props)
+        // console.log(this.props)
         return (
             <div className='text-light text-left ml-5 mt-1' style={{ fontSize: 25 }}>
                 {this.renderHangGhe()}
